@@ -2,7 +2,8 @@
   "name": "crud-oper",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://FatimaMansoorAhmed.github.io/CrudOperations",
+ "homepage": "https://FatimaMansoorAhmed.github.io/Crud",
+
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.0",
     "axios": "^1.7.9",
