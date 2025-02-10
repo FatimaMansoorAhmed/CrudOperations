@@ -2,8 +2,7 @@
   "name": "crud-oper",
   "version": "0.1.0",
   "private": true,
- "homepage": "https://FatimaMansoorAhmed.github.io/Crud",
-
+  "homepage": "https://fatimamansoorahmed.github.io/Crud",
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.0",
     "axios": "^1.7.9",
@@ -22,8 +21,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
-    
   },
   "eslintConfig": {
     "extends": [
